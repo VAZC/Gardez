@@ -34,3 +34,6 @@ script:
 # OPTIONAL before_deploy
 # OPTIONAL deploy
 # OPTIONAL after_deploy
+
+notifications:
+	slack: vazc:cNdctDKN7gsYRNQO0bEa5uWX
