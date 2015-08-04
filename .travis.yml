@@ -36,4 +36,4 @@ script:
 # OPTIONAL after_deploy
 
 notifications:
-	slack: vazc:cNdctDKN7gsYRNQO0bEa5uWX
+    slack: vazc:cNdctDKN7gsYRNQO0bEa5uWX
